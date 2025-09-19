@@ -1,0 +1,5 @@
+{
+  "name": "DocuSummarize AI",
+  "description": "An intelligent document summarizer that uses Gemini to provide concise summaries of your PDF and image files.",
+  "requestFramePermissions": []
+}
